@@ -43,3 +43,26 @@
 
 - [x] The client deposits (pre-funds) a milestone payment into escrow before you begin working. upon receiving and approving the work, the client releases the payment to you
 - [ ] You proactively begin working before the client has created and funded a milestone
+
+#### Q8. Upwork’s Terms of Service help users stay safe and maintain a trustworthy marketplace. <br /> Which of the following statements about Upwork’s Terms of Service are true? (Please check all that apply.)
+
+- [x] You commit to keeping client relationships on Upwork for at least 24 months, unless you or your client pays a conversion fee to take the relationship off the marketplace
+- [x] Soliciting or accepting payment from an Upwork client off the platform is a violation of Upwork’s Terms of Service
+- [x] You can only have ONE Upwork account. This one account gives you access to any account type you may need including: freelancer, client, agency
+- [ ] You can share your account credentials with other users
+
+#### Q9. When working on an hourly job, you invoice your client for time worked on the project. <br /> What do you need to qualify for Upwork’s Payment Protection for hourly jobs? (Please check all that apply.)
+
+- [x] You must have an hourly contract
+- [x] You must have a client with a verified billing method
+- [x] You must log your hours with the Upwork Desktop App
+- [x] You must write out activities performed in the Work Diary with memos or activities labels
+- [ ] You must exceed the contract’s weekly time limit set by the client
+
+#### Q10. Your proposal is often your first interaction with a potential client. It’s your opportunity to introduce yourself, highlight your expertise, and show the client why you’re the best professional for the job. <br /> What are the best practices for submitting a winning proposal through Upwork? (Please check all that apply.)
+
+- [x] Write a personal and professional greeting
+- [x] Describe your relevant experience in key areas listed in the job post – demonstrate you’ve read it
+- [x] Outline how you would approach and complete the job
+- [x] Respond to any screening questions listed in the job post
+- [ ] Copy and paste your proposal to submit as many proposals as possible in a short time
